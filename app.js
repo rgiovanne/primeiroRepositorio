@@ -8,7 +8,7 @@ new Vue({
 
         resultado(){
             return this.valor ==37 ? 
-            'Valor igual' : "Valor diferente que 36"
+            'Valor igual' : "Valor diferente que 15"
         }
     },
 
